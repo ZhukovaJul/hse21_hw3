@@ -27,7 +27,7 @@ https://colab.research.google.com/drive/1XFXY66G1bET3l5i9kbk27pJZH_9NJbGp?usp=sh
 
 ![](https://github.com/ZhukovaJul/hse21_hw3/blob/2331afff15bd91624ed412fbdb59916c80cf7996/img/ma.PNG)
 
-<h3> Тепловая карты </h3> 
+<h3> Тепловые карты </h3> 
 
 ![](https://github.com/ZhukovaJul/hse21_hw3/blob/2331afff15bd91624ed412fbdb59916c80cf7996/img/tep.PNG)
 ![](https://github.com/ZhukovaJul/hse21_hw3/blob/fcb26e40378bed06e7a0e40457c44c0d5274d8dd/img/tep2.PNG)
