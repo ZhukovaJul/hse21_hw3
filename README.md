@@ -36,5 +36,5 @@ https://colab.research.google.com/drive/1MorSEemB_EsJ4fqeU0bBzaV_LQMw0LSy?usp=sh
 ![](https://github.com/ZhukovaJul/hse21_hw3/blob/fcb26e40378bed06e7a0e40457c44c0d5274d8dd/img/tep2.PNG)
 
 <h3>Графики со значениями "Normalized counts"</h3> 
-<h3>Ссылка на доп код</h3>
+<h3>Ссылка на google colab дополнительный код</h3>
 https://colab.research.google.com/drive/1W--cbkLejyvDgZihkusQihJVrB06arRB?usp=sharing 
