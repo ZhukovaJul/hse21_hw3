@@ -22,4 +22,12 @@ https://colab.research.google.com/drive/1XFXY66G1bET3l5i9kbk27pJZH_9NJbGp?usp=sh
     <td>Уникально откартированные</td>
     <td>Попали на гены</td>
   </tr>
+    <tr>
+    <td>SRR3414629</td>
+    <td>перепрограммированный</td>
+    <td>21106089</td>
+    <td>20510113</td>
+    <td>18375888</td>
+    <td>16049609</td>
+  </tr>
 </table>
