@@ -24,3 +24,6 @@ https://colab.research.google.com/drive/1XFXY66G1bET3l5i9kbk27pJZH_9NJbGp?usp=sh
 | SRR3414637   | контрольный           | 20385570 |19847291|17844858|15736978|
 
 <h3> MA - plot </h3>  
+
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/59bfc707862cd6c20a65afa460cf57caeac92aa4/img/ma.PNG)
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/59bfc707862cd6c20a65afa460cf57caeac92aa4/img/tep.PNG)
