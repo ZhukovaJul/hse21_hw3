@@ -38,3 +38,9 @@ https://colab.research.google.com/drive/1MorSEemB_EsJ4fqeU0bBzaV_LQMw0LSy?usp=sh
 <h3>Графики со значениями "Normalized counts"</h3> 
 <h3>Ссылка на google colab дополнительный код</h3>
 https://colab.research.google.com/drive/1W--cbkLejyvDgZihkusQihJVrB06arRB?usp=sharing 
+
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/030488047155aca6fa8c88022a47f933d998ba2c/img/nc1.PNG)
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/030488047155aca6fa8c88022a47f933d998ba2c/img/nc2.PNG)
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/030488047155aca6fa8c88022a47f933d998ba2c/img/nc3.PNG)
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/030488047155aca6fa8c88022a47f933d998ba2c/img/nc4.PNG)
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/030488047155aca6fa8c88022a47f933d998ba2c/img/nc5.PNG)
