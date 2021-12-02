@@ -25,4 +25,5 @@ https://colab.research.google.com/drive/1XFXY66G1bET3l5i9kbk27pJZH_9NJbGp?usp=sh
 
 <h3> MA - plot </h3> 
 
-![](https://github.com/ZhukovaJul/hse21_hw3/blob/59bfc707862cd6c20a65afa460cf57caeac92aa4/img/ma.PNG)
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/2331afff15bd91624ed412fbdb59916c80cf7996/img/ma.PNG)
+![](https://github.com/ZhukovaJul/hse21_hw3/blob/2331afff15bd91624ed412fbdb59916c80cf7996/img/tep.PNG)
